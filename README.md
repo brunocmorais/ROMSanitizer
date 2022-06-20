@@ -8,7 +8,7 @@ There is a option to give a whitelist of terms that must be excluded from progra
 
 Use: ROMSanitizer [OPTIONS] -path [path] [-whitelist [terms]]
 
--path: Main path to ROM files
--whitelist: terms that must be ignored in criteria
--print0: print NUL character instead of EOL during output
--h or --help: show this help
+* -path: Main path to ROM files
+* -whitelist: terms that must be ignored in criteria
+* -print0: print NUL character instead of EOL during output
+* -h or --help: show this help
